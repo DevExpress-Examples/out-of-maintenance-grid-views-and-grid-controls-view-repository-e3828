@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DXWindowsApplication5/Form1.cs) (VB: [Form1.vb](./VB/DXWindowsApplication5/Form1.vb))
+* [Program.cs](./CS/DXWindowsApplication5/Program.cs) (VB: [Program.vb](./VB/DXWindowsApplication5/Program.vb))
+<!-- default file list end -->
 # Grid Views and Grid Control's View Repository
 
 
